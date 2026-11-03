@@ -26,7 +26,7 @@ roblox-senior-engineer/
 https://github.com/Jomacogo/roblox-senior-engineer/tree/main/roblox-senior-engineer
 ```
 
-Pégale a tu agente este mensaje, sustituyendo la URL por la tuya:
+Pégale a tu agente este mensaje:
 
 ```text
 Instala la skill roblox-senior-engineer desde esta carpeta de mi repositorio:
