@@ -22,17 +22,15 @@ roblox-senior-engineer/
 
 ## Opción 1: instalar con el enlace del repositorio
 
-Después de subir este contenido a GitHub, copia el enlace de la carpeta que contiene `SKILL.md`:
-
 ```text
-https://github.com/TU_USUARIO/roblox-senior-engineer/tree/main/roblox-senior-engineer
+https://github.com/Jomacogo/roblox-senior-engineer/tree/main/roblox-senior-engineer
 ```
 
 Pégale a tu agente este mensaje, sustituyendo la URL por la tuya:
 
 ```text
 Instala la skill roblox-senior-engineer desde esta carpeta de mi repositorio:
-PEGA_AQUI_EL_ENLACE
+https://github.com/Jomacogo/roblox-senior-engineer/tree/main/roblox-senior-engineer
 
 Conserva todos sus archivos y carpetas. Verifica que SKILL.md tenga el nombre
 roblox-senior-engineer y que las referencias, scripts y assets estén presentes.
@@ -72,10 +70,6 @@ git branch -M main
 git remote add origin https://github.com/TU_USUARIO/roblox-senior-engineer.git
 git push -u origin main
 ```
-
-Sustituye `TU_USUARIO` antes de ejecutar el comando `git remote`. Si `origin` ya existe, no lo dupliques: revisa la configuración con `git remote -v`.
-
-Para distribuir el paquete como descarga, crea una release en GitHub y adjunta `dist/roblox-senior-engineer.skill`.
 
 ## Conectar Roblox Studio por MCP
 
